@@ -101,7 +101,7 @@ namespace Tyuiu.ShunanovKE.Sprint6.Task7.V18
             {
                 for (int j = 0; j < cols; j++)
                 {
-                    if(j == 8)
+                    if(j == 9)
                     {
                         dataGridViewOut_SKE.Rows[i].Cells[j].Value = 11;
                         mtrx[i, j] = 11;
